@@ -33,6 +33,5 @@ My name is Yury, and I'm currently dedicated to mastering DevOps while ensuring 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=pieceowater&hide_border=true&card_width=338&theme=transparent)
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pieceowater&theme=transparent)
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pieceowater&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent) -->
-![github contribution grid snake animation](https://raw.githubusercontent.com/R3laxation/R3laxation/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pieceowater&color=blue&style=flat)
