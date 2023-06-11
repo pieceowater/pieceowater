@@ -1,8 +1,3 @@
-<!-- # About -->
-
-<!-- Hello there! 👋 -->
-
-<!-- Welcome to my GitHub profile.  -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
 
 My name is Yury, and I'm currently dedicated to mastering DevOps while ensuring a smooth journey without stumbling. I am highly enthusiastic about collaborating on exciting and innovative projects.
@@ -32,6 +27,6 @@ My name is Yury, and I'm currently dedicated to mastering DevOps while ensuring 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pieceowater&theme=transparent)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=pieceowater&hide_border=true&card_width=338&theme=transparent)
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pieceowater&theme=transparent)
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pieceowater&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent) -->
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pieceowater&color=blue&style=flat)
