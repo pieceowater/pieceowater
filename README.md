@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
 
-My name is Yury, and I'm currently dedicated to mastering DevOps while ensuring a smooth journey without stumbling. I am highly enthusiastic about collaborating on exciting and innovative projects.
+My name is Yury, and I'm currently dedicated to mastering DevOps while ensuring a smooth journey without stumbling. I am highly enthusiastic about collaborating on exciting and innovative projects. 
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pieceowater)
