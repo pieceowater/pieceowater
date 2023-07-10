@@ -17,6 +17,7 @@ My name is Yury, and I'm currently dedicated to mastering DevOps while ensuring 
 ### Technologies & Frameworks
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)]()
 [![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)]()
+[![XcodeCloud](https://img.shields.io/badge/XcodeCloud-black?style=for-the-badge&logo=xcode)]()
 
 ### Operating Systems
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/pieceowater)
