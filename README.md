@@ -2,7 +2,7 @@
 
 My name is Yury, and I'm currently dedicated to mastering DevOps while ensuring a smooth journey without stumbling. I am highly enthusiastic about collaborating on exciting and innovative projects. 
 
-### Connect with me
+### Contact with me
 [![AppStore](https://img.shields.io/badge/AppStore-blue?style=flat-square&logo=appstore)](https://apps.apple.com/kz/developer/yury-mid/id1694035363)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pieceowater)
 [![TikTok](https://img.shields.io/badge/TikTok-blue?style=flat-square&logo=tiktok)](https://www.tiktok.com/@yurymid)
