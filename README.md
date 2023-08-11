@@ -30,7 +30,3 @@ My name is Yury, and I'm currently dedicated to mastering DevOps while ensuring 
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pieceowater&theme=transparent)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pieceowater&color=blue&style=flat)
-
-
-
-
