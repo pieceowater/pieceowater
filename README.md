@@ -23,7 +23,7 @@ My name is Yury, and I'm currently dedicated to mastering DevOps while ensuring 
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/pieceowater)
 [![macOS](https://img.shields.io/badge/macos-black?style=for-the-badge&logo=Apple)](https://github.com/pieceowater)
 
-## GitHub Stats
+## GitHub Stats 
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pieceowater&theme=transparent)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=pieceowater&hide_border=true&card_width=338&theme=transparent)
