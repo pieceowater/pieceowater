@@ -31,4 +31,3 @@ My name is Yury, and I'm currently dedicated to mastering DevOps while ensuring 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pieceowater&color=blue&style=flat)
 
-
