@@ -21,6 +21,8 @@ My name is **Yury**, and I'm currently dedicated to mastering **DevOps** / **Bac
 [![macOS](https://img.shields.io/badge/macos-black?style=for-the-badge&logo=Apple)](https://github.com/pieceowater)
 [![iOS](https://img.shields.io/badge/ios-black?style=for-the-badge&logo=Apple)](https://github.com/pieceowater)
 
+### About
+
 Through self-guided learning, I embarked on my programming journey, initially mastering languages like **Python**, **PHP**, and **JavaScript**. Simultaneously, I honed my foundational frontend skills.
 
 Subsequently, my curiosity led me into the realm of **Node.js** and web development, captivating me with the intricacies of the "server" side.
