@@ -40,4 +40,6 @@ As demands evolved, I pursued expertise in automating **CI/CD** pipelines and co
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=pieceowater&hide_border=true&card_width=338&theme=transparent)
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pieceowater&theme=transparent)
 
+<!-- [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=pieceowater&theme=dark)](https://github.com/pieceowater/leetcode-stats) -->
+
 ![Profile Views](https://komarev.com/ghpvc/?username=pieceowater&color=blue&style=flat)
