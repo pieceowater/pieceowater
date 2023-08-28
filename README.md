@@ -1,8 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
 
-My name is Yury, and I'm currently dedicated to mastering DevOps while ensuring a smooth journey without stumbling. I am highly enthusiastic about collaborating on exciting and innovative projects. 
+My name is Yury, and I'm currently dedicated to mastering DevOps / Backend / iOS Dev. I am highly enthusiastic about collaborating on exciting and innovative projects. 
 
-### Contact with me
+Through self-guided learning, I embarked on my programming journey, initially mastering languages like Python, PHP, and JavaScript. Simultaneously, I honed my foundational frontend skills.
+
+Subsequently, my curiosity led me into the realm of Node.js and web development, captivating me with the intricacies of the "server" side.
+
+In parallel, driven by a hobbyist spirit, I delved into iOS mobile development using SwiftUI, exploring architectural patterns such as MVVM and MVC.
+
+As demands evolved, I pursued expertise in automating CI/CD pipelines and constructing resilient web application deployments. My exploration of DevOps practices culminated in my transition to leading the development team.
+
+### My links
 [![AppStore](https://img.shields.io/badge/AppStore-blue?style=flat-square&logo=appstore)](https://apps.apple.com/kz/developer/yury-mid/id1694035363)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pieceowater)
 [![TikTok](https://img.shields.io/badge/TikTok-blue?style=flat-square&logo=tiktok)](https://www.tiktok.com/@yurymid)
@@ -18,10 +26,13 @@ My name is Yury, and I'm currently dedicated to mastering DevOps while ensuring 
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)]()
 [![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)]()
 [![XcodeCloud](https://img.shields.io/badge/XcodeCloud-black?style=for-the-badge&logo=xcode)]()
+[![RabbitMQ](https://img.shields.io/badge/rabbitmq-black?style=for-the-badge&logo=rabbitmq)]()
+[![RabbitMQ](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis)]()
 
 ### Operating Systems
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/pieceowater)
 [![macOS](https://img.shields.io/badge/macos-black?style=for-the-badge&logo=Apple)](https://github.com/pieceowater)
+[![iOS](https://img.shields.io/badge/ios-black?style=for-the-badge&logo=Apple)](https://github.com/pieceowater)
 
 ## GitHub Stats 
 
