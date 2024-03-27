@@ -12,7 +12,6 @@ My name is **Yury**, and I'm currently dedicated to mastering **DevOps** / **Bac
 ### Technologies & Frameworks
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)]()
 [![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)]()
-[![XcodeCloud](https://img.shields.io/badge/XcodeCloud-black?style=for-the-badge&logo=xcode)]()
 [![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon)]()
 [![YCloud](https://img.shields.io/badge/yandexcloud-black?style=for-the-badge&logo=yandexcloud)]()
 [![Terraform](https://img.shields.io/badge/terraform-black?style=for-the-badge&logo=terraform)]()
