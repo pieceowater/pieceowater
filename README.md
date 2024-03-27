@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
 
 My name is **Yury**, and I'm currently dedicated to mastering **DevOps** / **Backend** / **iOS** Dev. I am highly enthusiastic about collaborating on exciting and innovative projects. 
-[![AboutMe](https://img.shields.io/badge/open-black?style=for-the-badge&logoColor=white&label=Checkout%20more%20about%20me!&color=yellow&link=https%3A%2F%2Fpieceowater.github.io%2Fresume%2F)]
+
+[AboutMe](https://img.shields.io/badge/open-black?style=for-the-badge&logoColor=white&label=Checkout%20more%20about%20me!&color=yellow&link=https%3A%2F%2Fpieceowater.github.io%2Fresume%2F)
 
 ### Technologies & Frameworks
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)]()
