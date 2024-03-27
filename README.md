@@ -13,8 +13,10 @@ My name is **Yury**, and I'm currently dedicated to mastering **DevOps** / **Bac
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)]()
 [![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)]()
 [![XcodeCloud](https://img.shields.io/badge/XcodeCloud-black?style=for-the-badge&logo=xcode)]()
-[![RabbitMQ](https://img.shields.io/badge/rabbitmq-black?style=for-the-badge&logo=rabbitmq)]()
-[![RabbitMQ](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis)]()
+[![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon)]()
+[![YCloud](https://img.shields.io/badge/yandexcloud-black?style=for-the-badge&logo=yandexcloud)]()
+[![Terraform](https://img.shields.io/badge/terraform-black?style=for-the-badge&logo=terraform)]()
+[![Ansible](https://img.shields.io/badge/ansible-black?style=for-the-badge&logo=ansible)]()
 
 ### Operating Systems
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/pieceowater)
