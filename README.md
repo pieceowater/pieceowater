@@ -24,15 +24,23 @@ My name is **Yury**, and I'm currently dedicated to mastering **DevOps** / **Bac
 [![macOS](https://img.shields.io/badge/macos-black?style=for-the-badge&logo=Apple)](https://github.com/pieceowater)
 [![iOS](https://img.shields.io/badge/ios-black?style=for-the-badge&logo=Apple)](https://github.com/pieceowater)
 
-### About
+### About Me
 
-Through self-guided learning, I embarked on my programming journey, initially mastering languages like **Python**, **PHP**, and **JavaScript**. Simultaneously, I honed my foundational frontend skills.
+👨‍💻 Motivated and versatile developer specializing in DevOps, Backend, and iOS development. Committed to expanding my expertise through hands-on project involvement, I am eager to invest my efforts and time in exchange for valuable knowledge and experience.
 
-Subsequently, my curiosity led me into the realm of **Node.js** and web development, captivating me with the intricacies of the "server" side.
+💼 With a solid background in various development fields, I am open to new opportunities that challenge and enhance my skills.
 
-In parallel, driven by a hobbyist spirit, I delved into **iOS** mobile development using **SwiftUI**, exploring architectural patterns such as **MVVM** and **MVC**.
+### Career Path
 
-As demands evolved, I pursued expertise in automating **CI/CD** pipelines and constructing resilient web application deployments. My exploration of **DevOps** practices culminated in my transition to leading the development team.
+🚀 Started as a junior developer and quickly progressed to lead a startup, demonstrating my ability to adapt and grow in dynamic environments.
+
+🏢 Joined a large company as a Backend Developer, where I have taken on numerous responsibilities and contributed significantly to various projects.
+
+🌐 Founded my own open-source large microservice project with an impressive tech stack, showcasing my passion for cutting-edge technology and collaborative development.
+
+### Open Source Contributions
+
+🌟 I actively lead open-source projects and manage a large microservice project on NestJS under my GitHub organization, [PCWT-Dev](https://github.com/PCWT-Dev). This project showcases my dedication to collaborative development and continuous learning.
 
 ### My links
 [![AppStore](https://img.shields.io/badge/AppStore-blue?style=flat-square&logo=appstore)](https://apps.apple.com/kz/developer/yury-mid/id1694035363)
