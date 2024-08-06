@@ -40,7 +40,7 @@ My name is **Yury**, and I'm currently dedicated to mastering **DevOps** / **Bac
 
 ### Open Source Contributions
 
-🌟 I actively lead open-source projects and manage a large microservice project on NestJS under my GitHub organization, [PCWT-Dev](https://github.com/PCWT-Dev). This project showcases my dedication to collaborative development and continuous learning.
+🌟 I actively lead open-source projects and manage a large microservice project on NestJS under my GitHub organization, [PCWT Dev](https://github.com/pieceowater-dev). This project showcases my dedication to collaborative development and continuous learning.
 
 ### My links
 [![AppStore](https://img.shields.io/badge/AppStore-blue?style=flat-square&logo=appstore)](https://apps.apple.com/kz/developer/yury-mid/id1694035363)
