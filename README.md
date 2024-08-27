@@ -20,12 +20,12 @@ My name is **Yury**, and I'm currently dedicated to mastering **DevOps** / **Bac
 [![YCloud](https://img.shields.io/badge/yandexcloud-black?style=for-the-badge&logo=yandexcloud)]()
 [![Terraform](https://img.shields.io/badge/terraform-black?style=for-the-badge&logo=terraform)]()
 [![Ansible](https://img.shields.io/badge/ansible-black?style=for-the-badge&logo=ansible)]()
-[![Nginx](https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginx)]()
 [![DockerCompose](https://img.shields.io/badge/DockerCompose-black?style=for-the-badge&logo=docker)]()
-[![NestJS](https://img.shields.io/badge/NestJS-black?style=for-the-badge&logo=NestJS)]()
+[![Nginx](https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginx)]()
 
 ### Languages
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/pieceowater)
+[![Go](https://img.shields.io/badge/golang-black?style=for-the-badge&logo=go)](https://github.com/pieceowater)
 [![Swift](https://img.shields.io/badge/swift-black?style=for-the-badge&logo=swift)](https://github.com/pieceowater)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/pieceowater)
 
