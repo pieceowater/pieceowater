@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20Universe!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub!%20Put%20stars,%20fork%20and%20checkout%20my%20org!&descAlignY=51&descAlign=62)
 
-_// Go to [PCWT Dev](https://github.com/pieceowater-dev)!_
+_CHECKOUT MY ORG [PCWT Dev](https://github.com/pieceowater-dev)!_
 
 
 My name is **Yury**, and I'm currently dedicated to mastering **DevOps** / **Backend** / **iOS** Dev. I am highly enthusiastic about collaborating on exciting and innovative projects. 
