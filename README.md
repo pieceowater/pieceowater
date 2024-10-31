@@ -24,8 +24,8 @@ My name is **Yury**, and I'm currently dedicated to mastering **DevOps** / **Bac
 [![Nginx](https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginx)]()
 
 ### Languages
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/pieceowater)
 [![Go](https://img.shields.io/badge/golang-black?style=for-the-badge&logo=go)](https://github.com/pieceowater)
+[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/pieceowater)
 [![Swift](https://img.shields.io/badge/swift-black?style=for-the-badge&logo=swift)](https://github.com/pieceowater)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/pieceowater)
 
