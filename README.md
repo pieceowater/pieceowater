@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20Universe!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub!%20Put%20stars,%20fork%20and%20checkout%20my%20org!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello,%20Universe!&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20GitHub!%20Put%20stars,%20follow%20and%20checkout%20my%20org%20PCWT-Dev!&descAlignY=55&descAlign=50)
+
 
 _CHECKOUT MY ORG [PCWT Dev](https://github.com/pieceowater-dev)!_
 
