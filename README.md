@@ -12,7 +12,6 @@ My name is **Yury**, and I'm currently dedicated to mastering **Backend** / **De
 [![Telegram](https://img.shields.io/badge/Telegram-gray?style=flat-square&logo=telegram)](https://t.me/pieceowater)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pieceowater)
 
-[![AboutMe](https://img.shields.io/badge/open-black?style=for-the-badge&logoColor=white&label=Checkout%20more!&color=yellow&link=https%3A%2F%2Fpieceowater.github.io%2Fresume%2F)](https://pieceowater.github.io/resume/)
 
 ### Languages
 [![Go](https://img.shields.io/badge/golang-black?style=for-the-badge&logo=go)](https://github.com/pieceowater)
