@@ -26,7 +26,7 @@ My name is **Yury**, and I'm currently dedicated to mastering **Backend** / **De
 
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)]()
 [![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)]()
-[![DockerCompose](https://img.shields.io/badge/DockerCompose-black?style=for-the-badge&logo=docker)]()
+[![Compose](https://img.shields.io/badge/Compose-black?style=for-the-badge&logo=docker)]()
 
 [![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonwebservices)]()
 [![Terraform](https://img.shields.io/badge/terraform-black?style=flat-square&logo=terraform)]()
