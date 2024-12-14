@@ -3,7 +3,7 @@
 _CHECKOUT MY ORG [PCWT Dev](https://github.com/pieceowater-dev)!_
 
 
-My name is **Yury**, and I'm currently dedicated to mastering **DevOps** / **Backend** / **iOS** Dev. I am highly enthusiastic about collaborating on exciting and innovative projects. 
+My name is **Yury**, and I'm currently dedicated to mastering **Backend** / **DevOps** Eng. I am highly enthusiastic about collaborating on exciting and innovative projects. 
 
 ### My links
 
@@ -13,26 +13,28 @@ My name is **Yury**, and I'm currently dedicated to mastering **DevOps** / **Bac
 
 [![AboutMe](https://img.shields.io/badge/open-black?style=for-the-badge&logoColor=white&label=Checkout%20more!&color=yellow&link=https%3A%2F%2Fpieceowater.github.io%2Fresume%2F)](https://pieceowater.github.io/resume/)
 
-### Technologies & Frameworks
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)]()
-[![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)]()
-[![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonwebservices)]()
-[![YCloud](https://img.shields.io/badge/yandexcloud-black?style=for-the-badge&logo=yandexcloud)]()
-[![Terraform](https://img.shields.io/badge/terraform-black?style=for-the-badge&logo=terraform)]()
-[![Ansible](https://img.shields.io/badge/ansible-black?style=for-the-badge&logo=ansible)]()
-[![DockerCompose](https://img.shields.io/badge/DockerCompose-black?style=for-the-badge&logo=docker)]()
-[![Nginx](https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginx)]()
-
 ### Languages
 [![Go](https://img.shields.io/badge/golang-black?style=for-the-badge&logo=go)](https://github.com/pieceowater)
-[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/pieceowater)
-[![Swift](https://img.shields.io/badge/swift-black?style=for-the-badge&logo=swift)](https://github.com/pieceowater)
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/pieceowater)
 
-### Operating Systems
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/pieceowater)
-[![macOS](https://img.shields.io/badge/macos-black?style=for-the-badge&logo=Apple)](https://github.com/pieceowater)
-[![iOS](https://img.shields.io/badge/ios-black?style=for-the-badge&logo=Apple)](https://github.com/pieceowater)
+[![TypeScript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)](https://github.com/pieceowater)
+[![Swift](https://img.shields.io/badge/swift-black?style=flat-square&logo=swift)](https://github.com/pieceowater)
+[![Python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)](https://github.com/pieceowater)
+
+### Technologies
+[![gRPC](https://img.shields.io/badge/gRPC-black?style=for-the-badge&logo=google)]()
+[![gql](https://img.shields.io/badge/graphql-black?style=for-the-badge&logo=graphql)]()
+
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)]()
+[![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)]()
+[![DockerCompose](https://img.shields.io/badge/DockerCompose-black?style=for-the-badge&logo=docker)]()
+
+[![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonwebservices)]()
+[![Terraform](https://img.shields.io/badge/terraform-black?style=flat-square&logo=terraform)]()
+[![Ansible](https://img.shields.io/badge/ansible-black?style=flat-square&logo=ansible)]()
+
+[![Linux](https://img.shields.io/badge/linux-black?style=flat-square&logo=Linux)](https://github.com/pieceowater)
+[![macOS](https://img.shields.io/badge/macos-black?style=flat-square&logo=Apple)](https://github.com/pieceowater)
+[![iOS](https://img.shields.io/badge/ios-black?style=flat-square&logo=Apple)](https://github.com/pieceowater)
 
 ### About Me
 
