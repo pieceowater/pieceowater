@@ -55,11 +55,12 @@ My name is **Yury**, and I'm currently dedicated to mastering **Backend** / **De
 🌟 I actively lead open-source projects and manage a large microservice project on NestJS under my GitHub organization, [PCWT Dev](https://github.com/pieceowater-dev). This project showcases my dedication to collaborative development and continuous learning.
 
 
-## GitHub Stats 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pieceowater&theme=transparent)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=pieceowater&hide_border=true&card_width=338&theme=transparent)
+### GitHub Stats  ![Profile Views](https://komarev.com/ghpvc/?username=pieceowater&color=blue&style=flat)
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pieceowater&theme=transparent) 
+
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pieceowater&theme=transparent)
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pieceowater&theme=transparent)
 
 <!-- [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=pieceowater&theme=dark)](https://github.com/pieceowater/leetcode-stats) -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=pieceowater&color=blue&style=flat)
+
