@@ -38,7 +38,7 @@ My name is **Yury**, and I'm currently dedicated to mastering **Backend** / **De
 
 ### About Me
 
-👨‍💻 Motivated and versatile developer specializing in DevOps, Backend, and iOS development. Committed to expanding my expertise through hands-on project involvement, I am eager to invest my efforts and time in exchange for valuable knowledge and experience.
+👨‍💻 Motivated and versatile developer specializing in Backend, DevOps, and iOS development. Committed to expanding my expertise through hands-on project involvement, I am eager to invest my efforts and time in exchange for valuable knowledge and experience.
 
 💼 With a solid background in various development fields, I am open to new opportunities that challenge and enhance my skills.
 
@@ -52,7 +52,7 @@ My name is **Yury**, and I'm currently dedicated to mastering **Backend** / **De
 
 ### Open Source Contributions
 
-🌟 I actively lead open-source projects and manage a large microservice project on NestJS under my GitHub organization, [PCWT Dev](https://github.com/pieceowater-dev). This project showcases my dedication to collaborative development and continuous learning.
+🌟 I actively lead open-source projects and manage a large microservice project on Golang under my GitHub organization, [PCWT Dev](https://github.com/pieceowater-dev). This project showcases my dedication to collaborative development and continuous learning.
 
 
 ### GitHub Stats  ![Profile Views](https://komarev.com/ghpvc/?username=pieceowater&color=blue&style=flat)
