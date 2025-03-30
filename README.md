@@ -46,7 +46,7 @@ My name is **Yury**, and I'm currently dedicated to mastering **Backend** / **De
 
 🚀 Started as a junior developer and quickly progressed to lead a startup, demonstrating my ability to adapt and grow in dynamic environments.
 
-🏢 Joined a large company as a Backend Developer, where I have taken on numerous responsibilities and contributed significantly to various projects.
+🏢 Joined a large company as a Teamlead, DevOps / Backend Engineer, where I have taken on numerous responsibilities and contributed significantly to various projects.
 
 🌐 Founded my own open-source large microservice project with an impressive tech stack, showcasing my passion for cutting-edge technology and collaborative development.
 
