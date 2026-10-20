@@ -1,108 +1,70 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello,%20Universe!&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20GitHub!%20Put%20stars,%20follow%20and%20checkout%20my%20org%20PCWT-Dev!&descAlignY=55&descAlign=50)
+# pieceowater
 
+*Engineer & Technical Lead*
 
-# Yury Mid | Backend / DevOps Engineer
-
-_CHECKOUT MY ORG → [PCWT Dev](https://github.com/pieceowater-dev)_
-
-Backend & DevOps engineer focused on building production-grade systems.
-
-I design and implement scalable backend architectures, deploy them to Kubernetes, automate infrastructure, and make systems actually run reliably in real environments.
-
-I don’t just write code — I build systems.
+> ### engineering philosophy & approach
+> 
+> * **Automation First**: Building systems that scale without growing operational costs.
+> * **Standards Over Heroics**: Enforcing strict templates, code consistency, and shared libraries over one-off fixes.
+> * **Transparency**: Relying on live telemetry, distributed tracing, and real-time dashboards instead of status decks.
 
 ---
 
-## 🔗 Links
+## about me
 
-[![Instagram](https://img.shields.io/badge/Instagram-gray?style=flat-square&logo=instagram)](https://instagram.com/pieceowater)
-[![Telegram](https://img.shields.io/badge/Telegram-gray?style=flat-square&logo=telegram)](https://t.me/pieceowater)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pieceowater)
+Engineer and Technical Lead based in Almaty. Focused on building production-grade, high-load systems, designing microservices architectures, and deploying reliable cloud-native infrastructure. 
 
----
-
-## 🧠 Core Stack
-
-### Languages
-
-[![Go](https://img.shields.io/badge/golang-black?style=for-the-badge&logo=go)](https://github.com/pieceowater)
-
-[![TypeScript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)](https://github.com/pieceowater)
-[![Python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)](https://github.com/pieceowater)
-[![Swift](https://img.shields.io/badge/swift-black?style=flat-square&logo=swift)](https://github.com/pieceowater)
+Currently leading a backend engineering team at Halyk Bank, delivering business-critical products (Halyk OFD, Halyk Lifestyle, Halyk Widget, Halyk SelfEmployed, Kino.kz) scaling from 15 to 50+ microservices per product. Founder and core architect behind **[pcwt](https://github.com/pieceowater-dev)** and the proprietary **Lota** B2B SaaS ecosystem.
 
 ---
 
-### Backend
+## core stack
 
-[![gRPC](https://img.shields.io/badge/gRPC-black?style=for-the-badge&logo=google)]()
-[![GraphQL](https://img.shields.io/badge/graphql-black?style=for-the-badge&logo=graphql)]()
-[![REST](https://img.shields.io/badge/REST-black?style=for-the-badge)]()
+<details>
+<summary><b>backend & protocols</b> <i>(click to expand)</i></summary>
 
-- Clean Architecture  
-- Microservices  
-- Concurrency & async processing  
+<br/>
 
----
+* <b>Languages & Core</b>: Go, SQL, Python, Swift, TypeScript, Bash
+* <b>Architecture & Protocols</b>: gRPC, Protobuf, Kafka, GraphQL, REST, Clean Architecture, Distributed Systems
 
-### Infrastructure & DevOps
+</details>
 
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)]()
-[![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)]()
-[![Compose](https://img.shields.io/badge/Compose-black?style=for-the-badge&logo=docker)]()
+<details>
+<summary><b>platform & infrastructure</b> <i>(click to expand)</i></summary>
 
-[![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonwebservices)]()
-[![Terraform](https://img.shields.io/badge/terraform-black?style=flat-square&logo=terraform)]()
-[![Ansible](https://img.shields.io/badge/ansible-black?style=flat-square&logo=ansible)]()
+<br/>
 
-[![Linux](https://img.shields.io/badge/linux-black?style=flat-square&logo=Linux)](https://github.com/pieceowater)
-[![macOS](https://img.shields.io/badge/macos-black?style=flat-square&logo=Apple)](https://github.com/pieceowater)
+* <b>Orchestration & Containers</b>: Kubernetes, Docker, Docker Compose
+* <b>Cloud & IaC</b>: AWS, Terraform, Ansible
+* <b>Delivery & GitOps</b>: CI/CD, ArgoCD, Kustomize, SonarQube, GitOps pipelines
 
----
+</details>
 
-## 🚀 What I Do
+<details>
+<summary><b>observability & tooling</b> <i>(click to expand)</i></summary>
 
-- Design backend architectures from scratch  
-- Build Go microservices  
-- Set up Kubernetes clusters  
-- Configure CI/CD pipelines  
-- Automate infrastructure with Terraform  
-- Configure ingress, networking, production environments  
-- Implement monitoring & incident workflows  
-- Think in systems, not just endpoints  
+<br/>
+
+* <b>Telemetry</b>: Structured Logging, OpenTelemetry, Distributed Tracing
+* <b>Internal Developer Tools</b>: Go service templates, proto package templates, codegen CLI, tracing toolkits
+
+</details>
 
 ---
 
-## 🏗 Career
+## engineering impact & execution
 
-- Started as a junior developer  
-- Scaled to Team Lead (Backend / DevOps) in a large company  
-- Architected production services  
-- Building my own SaaS ecosystem and microservice platform  
-
----
-
-## 🌐 Open Source
-
-I run and maintain a large Golang-based microservice project under  
-👉 [PCWT Dev](https://github.com/pieceowater-dev)
-
-Focus: real architecture, real deployment, real infrastructure.
+* <b>High-Load Architecture</b>: Architected and scaled backend systems handling heavy traffic across dozens of microservices, cutting troubleshooting time 3x via unified structured logging and distributed tracing across 70+ repositories.
+* <b>GitOps & Infrastructure Automation</b>: Implemented GitOps workflows with ArgoCD and Kustomize, reducing environment spin-up times from days to 20 minutes. Migrated 50+ repositories to standardized CI/CD pipelines with automated testing and quality gates.
+* <b>Developer Experience</b>: Designed and delivered 10+ internal libraries and tooling frameworks (microservice and proto templates, custom CLIs) to accelerate engineering delivery.
+* <b>Team Leadership & Delivery</b>: Established predictable Agile delivery processes from scratch (capacity planning, Jira tracking), achieving a 99% sprint commitment delivery rate and rapid engineer onboarding.
 
 ---
 
-<!-- ## 📊 GitHub Stats  
-![Profile Views](https://komarev.com/ghpvc/?username=pieceowater&color=blue&style=flat)
+## links
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pieceowater&theme=transparent) 
-
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pieceowater&theme=transparent)
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pieceowater&theme=transparent)
-
---- -->
-
-## Engineering Philosophy
-
-> Simple systems scale.
-
-If you're building something serious — let's connect.
+* **Telegram**: [@pieceowater](https://t.me/pieceowater)
+* **LinkedIn**: [pieceowater](https://www.linkedin.com/in/pieceowater)
+* **Instagram**: [@pieceowater](https://instagram.com/pieceowater)
+* **GitHub Org**: [pcwt](https://github.com/pieceowater-dev)
